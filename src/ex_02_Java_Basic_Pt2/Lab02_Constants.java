@@ -7,6 +7,7 @@ public class Lab02_Constants {
         //a=20; //not possible to change the value since it is final
 
         final float PI = 3.14f;
+        //PI= 3.14f; This is final in nature
         System.out.println(PI);
 
     }
