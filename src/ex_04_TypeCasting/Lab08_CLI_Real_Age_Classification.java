@@ -1,6 +1,6 @@
 package ex_04_TypeCasting;
 
-public class Lab08_Real_Age_Classification {
+public class Lab08_CLI_Real_Age_Classification {
     public static void main(String[] args) {
         //age =23
         //Minor(Age<18), Adult(Age>18), Senior(Age>60)
