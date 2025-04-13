@@ -1,4 +1,4 @@
-package ex_06_Conditions_Loops;
+package ex_06_Conditions;
 
 public class Lab06_Switch_Interview2 {
     public static void main(String[] args) {

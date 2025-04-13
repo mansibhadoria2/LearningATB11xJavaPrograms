@@ -1,4 +1,4 @@
-package ex_06_Conditions_Loops;
+package ex_06_Conditions;
 
 import java.util.Scanner;
 

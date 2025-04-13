@@ -1,4 +1,4 @@
-package ex_06_Conditions_Loops;
+package ex_06_Conditions;
 
 public class Lab07_JDK13Above {
     public static void main(String[] args) {

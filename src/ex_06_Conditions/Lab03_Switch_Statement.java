@@ -1,6 +1,5 @@
-package ex_06_Conditions_Loops;
+package ex_06_Conditions;
 
-import java.lang.classfile.instruction.SwitchCase;
 import java.util.Scanner;
 
 public class Lab03_Switch_Statement {
