@@ -1,7 +1,5 @@
 package JAVA_11x_Task;
 
-import java.util.Scanner;
-
 public class Task04_CLI_Options {
     public static void main(String[] args) {
         //Take user input-name, age & salary and print them in the end.

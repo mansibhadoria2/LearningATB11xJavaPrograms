@@ -5,5 +5,6 @@ public class Lab05_For_Interview1 {
         for (int i=0; i>10;){
             System.out.println("Hello");
         }
+        // Condition is False -> So, Nothing will be Printed, we will come out of the loop
     }
 }

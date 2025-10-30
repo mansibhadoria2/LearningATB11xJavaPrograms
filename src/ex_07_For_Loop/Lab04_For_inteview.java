@@ -5,7 +5,7 @@ public class Lab04_For_inteview {
         for (int i=0; ; ){ // No condition //no Increment/decrement
             System.out.println("Hello");
         }
-        //No condition -> Infinite loop will run
+        //there is No condition -> so, Infinite loop will run
         //exit code 130- (Stop by yourself - kill)
     }
 }
